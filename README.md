@@ -1,0 +1,1 @@
+Simple Blog made in Django by following a tutorial by Corey Schafer.
